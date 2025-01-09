@@ -19,6 +19,8 @@ I´m just studying for now 🙃
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" height="40" width="50" alt="arduino-icon" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
    </div>
 
   
